@@ -1,5 +1,6 @@
 .main{
     width: 100%;
     min-height: 800px;
-    background: rgb(129, 80, 80);
+    /* background: rgb(129, 80, 80); */
+    background-image: url(images/toraor.jpg);
 }

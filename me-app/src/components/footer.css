@@ -1,5 +1,6 @@
 .footer{
     width: 100%;
     height: 100px;
-    background: rgb(77, 61, 153);
+    /* background: rgb(77, 61, 153); */
+    background-image: url(images/logo01.jpg);
 }
