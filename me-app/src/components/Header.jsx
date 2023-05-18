@@ -12,6 +12,8 @@ function Header() {
                 <a href="#"><li>green</li> </a>
             </ul>
             <p>to check</p>
+      <div> <button> click me</button></div>
+    
         </div>
     )
 }
